@@ -1,0 +1,10 @@
+{
+    "name": "dcm",
+    "id": "dcm",
+    "version": "1.0.0",
+    "description": "Installs dcm - Docker compose manager",
+    "options": {},
+    "installsAfter": [
+        "ghcr.io/devcontainers/features/common-utils"
+    ]
+}
