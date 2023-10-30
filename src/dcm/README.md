@@ -7,7 +7,7 @@ Installs dcm - Docker compose manager
 
 ```json
 "features": {
-    "ghcr.io/gpt14/dcm/dcm:1": {}
+    "ghcr.io/gpt14/features/dcm:1": {}
 }
 ```
 
@@ -21,4 +21,4 @@ Installs dcm - Docker compose manager
 
 ---
 
-_Note: This file was auto-generated from the [devcontainer-feature.json](https://github.com/gpt14/dcm/blob/main/src/dcm/devcontainer-feature.json).  Add additional notes to a `NOTES.md`._
+_Note: This file was auto-generated from the [devcontainer-feature.json](https://github.com/gpt14/features/blob/main/src/dcm/devcontainer-feature.json).  Add additional notes to a `NOTES.md`._
